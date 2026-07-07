@@ -1,21 +1,26 @@
 # Hi, I'm Kamil Kubajewski! 👋
 
-### 👨‍💻 Who are you?
-I am a Cloud and DevOps engineering enthusiast. I focus on automation, *Infrastructure as Code* (IaC), and building secure, scalable architectures. I enjoy solving complex networking challenges and ensuring that the software delivery lifecycle is fast, secure, and reliable.
+### 👨‍💻 Who am I?
 
-### 🚀 What are you currently working on?
-I am currently developing a comprehensive cloud project based on enterprise architecture. My recent focus includes:
-* Automating infrastructure in **Microsoft Azure** using **Terraform** (including AKS, VNets, and Application Gateway with AGIC).
-* Securing network traffic and internal access using **Point-to-Site VPNs** and private Internal Load Balancers.
-* Deploying Observability stacks (**Grafana**, Prometheus) utilizing the **Helm** package manager.
-* Designing CI/CD pipelines and implementing the GitOps approach (**ArgoCD**, **Ansible**, GitHub Actions, Jenkins).
+I am a **Microsoft Certified Azure Administrator (AZ-104)** and an aspiring DevOps Engineer with a solid background in software development and Linux system administration. I focus on Infrastructure as Code (IaC), automation, and building secure, highly available architectures. I thrive on solving complex networking challenges, troubleshooting system internals, and ensuring a fast, reliable software delivery lifecycle.
 
-### 🛠️ What tools do you use?
-* **Cloud & Infrastructure:** Azure, Terraform
-* **Containerization & Orchestration:** Docker, Kubernetes (AKS), Helm
-* **CI/CD & Automation:** GitHub Actions, Ansible, ArgoCD *(in progress)*
-* **Monitoring & Observability:** Grafana, Prometheus
-* **Scripting:** PowerShell, Bash, Python
+### 🚀 What am I currently working on?
+
+I am actively developing and maintaining several advanced engineering projects:
+*   **Enterprise Cloud Architecture:** Automating Azure infrastructure using Terraform and Bicep (AKS, VNets, Application Gateway with WAF, Private Endpoints, and Zero-Trust networking).
+*   **Distributed Systems:** Building an ongoing distributed .NET microservices application integrated with Azure PaaS (Blob Storage, PostgreSQL) and automated CI/CD pipelines.
+*   **Linux Internals & Security:** Developing a local secret and process management system in **C** using Linux kernel system calls to deepen my understanding of OS operations.
+*   **Advanced Troubleshooting:** Regularly honing my diagnostic skills (system logs, network traffic, resource bottlenecks) through real-world Linux server scenarios.
+*   **DevOps Pipelines:** Designing robust CI/CD workflows transitioning through GitHub Actions, Ansible, and Azure DevOps.
+
+### 🛠️ Tech Stack & Toolbox
+
+*   **Cloud & Infrastructure:** Microsoft Azure (AZ-104), Terraform, Bicep
+*   **Containers & Orchestration:** Docker, Kubernetes (AKS), Helm
+*   **CI/CD & Configuration:** Azure DevOps, GitHub Actions, Ansible, Jenkins
+*   **OS & Administration:** Linux Internals, Network Troubleshooting (TCP/IP, DNS)
+*   **Languages & Scripting:** C, C#, Python, Bash, PowerShell, SQL
+*   **Observability & Security:** Grafana, Prometheus, Azure Key Vault, Checkov/Trivy
 
 ### 📫 How to reach you?
 If you want to chat about cloud technologies, DevOps, or have an interesting professional opportunity, feel free to reach out:
