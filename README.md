@@ -19,5 +19,6 @@ I am currently developing a comprehensive cloud project based on enterprise arch
 
 ### 📫 How to reach you?
 If you want to chat about cloud technologies, DevOps, or have an interesting professional opportunity, feel free to reach out:
-* **LinkedIn:** [Kamil Kubajewski](www.linkedin.com/in/kamil-kubajewski)
+* **LinkedIn:** [Kamil Kubajewski](https://www.linkedin.com/in/kamil-kubajewski)
 * **Email:** kamilem.kuba@gmail.com
+* **Microsoft Learn:** [Kamil Kubajewski](https://learn.microsoft.com/pl-pl/users/kamilkubajewski-2476/transcript/dg835iq6gk0o6mm)
